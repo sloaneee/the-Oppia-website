@@ -31,7 +31,7 @@ Happiness: "My teacher taught me that the place value of the last number is call
 Contact
 We value your feedback and support. If you have any questions, suggestions, or want to get involved, feel free to reach out to us.
 
-Email: contact@oppia.org
+Email: victoriaudofort@gmail.com
 Website: https://oppia-project.vercel.app/
 Impact
 The Oppia lesson app has made a significant impact on the lives of students in underserved communities. Our mission to provide accessible and high-quality education is ongoing. You can help us make a difference by supporting our cause:
